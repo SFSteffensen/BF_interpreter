@@ -1,4 +1,4 @@
-# bf_interpreter
+# BF_interpreter
 
 Super basic, barely tested [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Rust in an evening to avoid boredom.
 
