@@ -1,12 +1,12 @@
 [package]
-name = "bf_compiler"
+name = "bf_interpreter"
 version = "0.1.0"
 edition = "2024"
-description = "A Brainfuck compiler and interpreter"
+description = "A Brainfuck interpreter"
 license = "MIT"
 repository = "https://github.com/placeholder/bf_compiler"
 readme = "README.md"
-keywords = ["brainfuck", "compiler", "interpreter"]
-categories = ["compilers"]
+keywords = ["brainfuck", "interpreter"]
+categories = ["interpreters"]
 
 [dependencies]
