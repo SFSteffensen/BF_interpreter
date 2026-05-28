@@ -1,0 +1,12 @@
+[package]
+name = "bf_compiler"
+version = "0.1.0"
+edition = "2024"
+description = "A Brainfuck compiler and interpreter"
+license = "MIT"
+repository = "https://github.com/placeholder/bf_compiler"
+readme = "README.md"
+keywords = ["brainfuck", "compiler", "interpreter"]
+categories = ["compilers"]
+
+[dependencies]
